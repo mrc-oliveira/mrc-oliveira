@@ -1,29 +1,36 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" width="100%" src="https://i.pinimg.com/1200x/aa/bb/6b/aabb6b3321d708bc97c2620e45a92a87.jpg"  />
+  <img data-importer="image" width="100%" src="Background.png"  />
 </div>
 
 ###
+
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gitlab logo"  />
+  <a href="www.linkedin.com/in/mrc-oliveira" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:macfo.br@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+  </a>
+  <a href="https://gitlab.com/mrc-oliveira" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gitlab logo"  />
+  </a>
 </div>
 
 ###
 
-<h2 data-importer="text" align="center">Sobre mim</h2>
+<h2 data-importer="text" align="center">Sobre mim ⚇</h2>
 
 ###
 
 <br clear="both">
 <div>
-<img data-importer="image" align="left" height="250" src="https://i.pinimg.com/1200x/36/11/db/3611db8b141929a91844ad4b4b69e4c6.jpg"  />
+<img data-importer="image" align="left" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJnMnk2MGhud2JiYWJncW16NTd4MG14cm01bjdoaGd6Y3RrYmJpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lWxG18p1SOlEc/giphy.gif"  />
 </div>
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
   <div style="flex: 1;">
     <h3 data-importer="text" align="left">Olá, meu nome é Marco!</h3>
-    <p data-importer="text" align="left">Sou estudante do 2º período de Ciência da Computação com foco direcionado para a área de DevOps. Atualmente, busco minha primeira oportunidade de estágio ou posição júnior em DevOps / Infraestrutura / Cloud, onde eu possa somar com a equipe, aprender com profissionais experientes e acelerar minha evolução.No meu histórico profissional, colaborei no desenvolvimento e manutenção para o site AM Outdoor, uma experiência que refinou minha capacidade de entrega, resolução de problemas e trabalho sob demanda.</p>
+    <p data-importer="text" align="left">Sou estudante do 2º período de Ciência da Computação com foco direcionado para a área de DevOps. Atualmente, busco minha primeira oportunidade de estágio ou posição júnior em DevOps / Infraestrutura / Cloud, onde eu possa somar com a equipe, aprender com profissionais experientes e acelerar minha evolução. No meu histórico profissional, colaborei no desenvolvimento e manutenção para o site AM Outdoor, uma experiência que refinou minha capacidade de entrega, resolução de problemas e trabalho sob demanda.</p>
   </div>
 </div>
 
@@ -32,7 +39,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Tecnologias</h2>
+<h2 data-importer="text" align="center">Tecnologias ✓</h2>
 
 ###
 
@@ -60,7 +67,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Contribuições</h2>
+<h2 data-importer="text" align="center">Contribuições +</h2>
 
 ###
 
