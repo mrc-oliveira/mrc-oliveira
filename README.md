@@ -6,7 +6,7 @@
 
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/mrc-oliveira" target="_blank">
+  <a href="https://www.linkedin.com/in/mrc-oliveira" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
   </a>
   <a href="mailto:macfo.br@gmail.com" target="_blank">
